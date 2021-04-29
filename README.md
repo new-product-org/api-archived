@@ -1,3 +1,5 @@
+This is a Pull Request for this repository.
+
 <p align="center"><a href="http://35.227.205.240/?job=build_go-repo-template_postsubmit">
 <!-- prow build badge, godoc, and go report card
 <img alt="Build Status" src="http://[prow-website]/badge.svg?jobs=build-open-cluster-management-api-amd64-postsubmit">
